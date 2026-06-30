@@ -97,6 +97,16 @@ open_to    : SDE Roles · Internships · Open Source · Freelance
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+<!-- ── AI-ASSISTED DEVELOPMENT ─────────────────────────────────── -->
+**AI-Assisted Development**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+> I use AI tools to accelerate development, explore unfamiliar architectures, and ship faster — while still understanding the fundamentals behind every line I commit.
+
 ---
 
 ## 🚀 Featured Projects
