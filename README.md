@@ -33,7 +33,7 @@
 name       : Pavankumar Balijireddi
 title      : Full Stack Developer & AI/ML Enthusiast
 location   : Visakhapatnam, Andhra Pradesh, India
-education  : B.Tech CSE (AI & ML) — Aditya University, Expected 2027
+education  : B.Tech CSE (AI & ML)—Aditya University, Expected 2027
 experience :
   - React Developer Intern @ Wyreflow Technologies (May–Jul 2025)
   - Frontend Developer @ Student Activity Council, ACET (Sep 2024–Present)
